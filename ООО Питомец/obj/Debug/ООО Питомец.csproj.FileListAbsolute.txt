@@ -1,0 +1,30 @@
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\ООО Питомец.exe.config
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\ООО Питомец.exe
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\ООО Питомец.pdb
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\EntityFramework.dll
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\EntityFramework.xml
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец.csproj.AssemblyReference.cache
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\App.g.cs
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец_Content.g.cs
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец_MarkupCompile.cache
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец_MarkupCompile.lref
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\App.baml
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\MainWindow.baml
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец.g.resources
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО_Питомец.Properties.Resources.resources
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец.csproj.GenerateResource.cache
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец.csproj.CoreCompileInputs.cache
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец.csproj.CopyComplete
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец.exe
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\ООО Питомец.pdb
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\EasyCaptcha.Wpf.dll
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\bin\Debug\EasyCaptcha.Wpf.pdb
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\Catalog.g.cs
+C:\Users\ASUS s14\Desktop\pract\ПМ01\ООО Питомец\ООО Питомец\obj\Debug\Catalog.baml

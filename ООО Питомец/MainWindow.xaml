@@ -1,0 +1,68 @@
+﻿<Window x:Class="ООО_Питомец.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:easy="clr-namespace:EasyCaptcha.Wpf;assembly=EasyCaptcha.Wpf"
+        xmlns:local="clr-namespace:ООО_Питомец"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid Background="#FFAB73">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Image Grid.Column="0" HorizontalAlignment="Left" Source="Resources/pets.png"></Image>
+            <Label Grid.Column="0">ООО "Питомец"</Label>
+            <Label Grid.Column="1">Авторизация</Label>
+            <Button Grid.Column="2" HorizontalAlignment="Right" Content="Выход" Click="ButtonExit_Click"></Button>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Row="0" HorizontalAlignment="Left">Логин</Label>
+                <TextBox x:Name="textBoxLogin" Grid.Row="0" HorizontalAlignment="Right"></TextBox>
+
+                <Label Grid.Row="1" HorizontalAlignment="Left">Пароль</Label>
+                <PasswordBox x:Name="passwordBoxPassword" Grid.Row="1" HorizontalAlignment="Right"></PasswordBox>
+                <TextBox x:Name="textBoxPassword" Grid.Row="1" HorizontalAlignment="Right" Visibility="Hidden"></TextBox>
+
+                <easy:Captcha x:Name="captcha" Grid.Row="2" Width="100" HorizontalAlignment="left" Visibility="Hidden"></easy:Captcha>
+                <TextBox x:Name="textBoxCaptcha" Grid.Row="2" HorizontalAlignment="Right" Visibility="Hidden"></TextBox>
+
+                <Button x:Name="buttonLogIn" Grid.Row="3" HorizontalAlignment="Right" Click="buttonLogIn_Click">Войти</Button>
+                <Button x:Name="buttonGuest" Grid.Row="3" HorizontalAlignment="Left" Click="buttonGuest_Click">Гость</Button>
+            </Grid>
+            
+            <Button x:Name="buttonReCapthca" Grid.Column="0" Margin="0,100,0,0" Visibility="Hidden" Click="buttonReCapthca_Click">Обновить капчу</Button>
+            <CheckBox x:Name="passwordCheck" Grid.Column="2" HorizontalAlignment="Right" Margin="0,114,74,0" VerticalAlignment="Top" Width="183" Checked="passwordCheck_Checked" Unchecked="passwordCheck_Unchecked">Показать пароль</CheckBox>
+
+        </Grid>
+
+        <Label x:Name="alertText" Grid.Row="2"></Label>
+
+    </Grid>
+</Window>
